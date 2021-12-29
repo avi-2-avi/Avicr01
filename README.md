@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avi 🇵🇪
 - 👀 I’m interested in learning interesting stuff!
-- 🌱 I’m currently learning C++, Python Data Analysis, Networking, French and Korean.
+- 🌱 I’m currently learning C++, Data Science, Cloud AWS, French and Korean.
 - 💙 I enjoy playing around Linux :penguin: 
 - 💬 Come talk to me on my Discord: Avi#4735
 - ✨ Nice to meet y'all! ✨ ¡Un gusto en conocerlos! ✨ Ravi de vous rencontrer! ✨
