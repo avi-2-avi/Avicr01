@@ -9,4 +9,4 @@
 Avicr01/Avicr01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avicr01)](https://github.com/Avicr01/github-readme-stats&show_icons=true&theme=nightowl)
+[![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avicr01&show_icons=true&theme=nightowl&count_private=true)](https://github.com/Avicr01/github-readme-stats)
