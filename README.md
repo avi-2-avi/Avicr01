@@ -32,5 +32,22 @@
   
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="graphql" width="40" height="40"/> </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>
+
+<div align="center" style="text-align:center">
+    <a href="mailto:avicon95@protonmail.com">
+        <img src="https://img.shields.io/badge/-Protonmail-263162?style=for-the-badge&logo=Protonmail&logoColor=white"
+            alt="Avi's Mail">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/-Avi%234735-404EED?style=for-the-badge&logo=Discord&logoColor=white"
+            alt="Avi's Discord">
+    </a>
+    </a>
+    <a href="https://www.linkedin.com/in/cristina-vidal-falcon-1063311b1/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Avi's LinkedIn">
+    </a>
+</div>  
+  
   
 <h1 align="center">Have a good day!</a><br/><br/> <img src="https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/4/49/Penguin-Flapping.gif/revision/latest/scale-to-width-down/480?cb=20161113221226" width="100" /> <img src="https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/4/49/Penguin-Flapping.gif/revision/latest/scale-to-width-down/480?cb=20161113221226" width="100" /> <img src="https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/4/49/Penguin-Flapping.gif/revision/latest/scale-to-width-down/480?cb=20161113221226" width="100" /></h1>
